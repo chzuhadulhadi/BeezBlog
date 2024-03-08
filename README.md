@@ -1,0 +1,2 @@
+# BeezBlog
+ Static Blog App
